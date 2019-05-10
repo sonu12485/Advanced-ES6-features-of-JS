@@ -111,5 +111,3 @@ const object={
 };
 
 const { a, b } = object; // similar to const a = object.a ...
-
-
